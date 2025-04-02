@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>yzyparry</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2025-04-02T00:31:01.264Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Ziyue Yang</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>testmath</title>
+    <link href="http://example.com/2025/04/01/testmath-1/"/>
+    <id>http://example.com/2025/04/01/testmath-1/</id>
+    <published>2025-04-02T00:29:28.000Z</published>
+    <updated>2025-04-02T00:31:01.264Z</updated>
+    
+    <content type="html"><![CDATA[<p><span class="math display">\[\begin{align}A=\left[\begin{matrix}\alpha&amp;l^T\\l&amp;\widetilde{A}\end{matrix}\right]&amp;=\left[\begin{matrix}\sqrt \alpha&amp;0\\\frac{l}{\sqrt\alpha}&amp;I_{n-1}\end{matrix}\right]\left[\begin{matrix}1&amp;0\\0&amp;\widetilde{A}-\frac{ll^T}{\sqrt{\alpha}}\end{matrix}\right]\left[\begin{matrix}\sqrt\alpha&amp;\frac{l^T}{\sqrt\alpha}\\0&amp;I_{n-1}\end{matrix}\right]\\&amp;=\left[\begin{matrix}\sqrt \alpha&amp;0\\\frac{l}{\sqrt\alpha}&amp;I_{n-1}\end{matrix}\right]\left[\begin{matrix}1&amp;0\\0&amp;\widetilde{L}\end{matrix}\right]\left[\begin{matrix}1&amp;0\\0&amp;\widetilde{L}^T\end{matrix}\right]\left[\begin{matrix}\sqrt\alpha&amp;\frac{l^T}{\sqrt\alpha}\\0&amp;I_{n-1}\end{matrix}\right]\\&amp;=\left[\begin{matrix}\sqrt \alpha&amp;0\\\frac{l}{\sqrt\alpha}&amp;\widetilde{L}\end{matrix}\right]\left[\begin{matrix}\sqrt\alpha&amp;\frac{l^T}{\sqrt\alpha}\\0&amp;\widetilde{L}^T\end{matrix}\right]\\\end{align}\]</span></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;span class=&quot;math display&quot;&gt;&#92;[
+&#92;begin{align}
+A=&#92;left[&#92;begin{matrix}
+&#92;alpha&amp;amp;l^T&#92;&#92;
+l&amp;amp;&#92;widetilde{A}
+&#92;end{matrix}&#92;right]&amp;amp;=
+&#92;left[&#92;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>或许有人想要解锁音乐文件</title>
+    <link href="http://example.com/2025/04/01/music/"/>
+    <id>http://example.com/2025/04/01/music/</id>
+    <published>2025-04-01T21:34:45.186Z</published>
+    <updated>2025-04-02T00:22:35.195Z</updated>
+    
+    <content type="html"><![CDATA[<p>https://yzyparry.com/music-crack/</p><p><ahref="https://github.com/unlock-music/unlock-music">原始repo</a>没了，现在是Repository unavailable due to DMCA takedown</p><p>还好我抢救了一份</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;https://yzyparry.com/music-crack/&lt;/p&gt;
+&lt;p&gt;&lt;a
+href=&quot;https://github.com/unlock-music/unlock-music&quot;&gt;原始repo&lt;/a&gt;没了，现在是
+Repository unavailable d</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
