@@ -103,8 +103,9 @@ theme: oasis
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: 'git'
-  repo: https://github.com/YzyParry/YzyParry.github.io.git
+  type: git
+  repo: git@github.com:YzyParry/YzyParry.github.io.git
+  branch: master
 
 cname: "yzyparry.com"
 
