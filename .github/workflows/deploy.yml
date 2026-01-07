@@ -36,8 +36,8 @@ jobs:
           chmod 600 ~/.ssh/id_rsa
           ssh-keyscan github.com >> ~/.ssh/known_hosts
           
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
+          git config --global user.name "nika"
+          git config --global user.email "nika@yzyparry.com"
           
           hexo clean
           hexo generate --deploy
