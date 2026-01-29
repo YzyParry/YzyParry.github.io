@@ -1,5 +1,6 @@
 ---
 title: 或许有人想要解锁音乐文件
+date: 2025-04-01
 ---
 
 [点击这里](https://yzyparry.com/music-crack/)
