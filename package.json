@@ -3,10 +3,10 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "build": "TZ=UTC hexo generate",
+    "build": "hexo generate",
     "clean": "hexo clean",
-    "deploy": "TZ=UTC hexo deploy",
-    "server": "TZ=UTC hexo server"
+    "deploy": "hexo deploy",
+    "server": "hexo server"
   },
   "hexo": {
     "version": "7.3.0"
